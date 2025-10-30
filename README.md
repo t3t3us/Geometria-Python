@@ -31,8 +31,8 @@ O script implementa e visualiza as seguintes transformações:
     Clone o repositório:
     https://github.com/t3t3us/Geometria-Python
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/t3t3us/Geometria-Python
+cd https://github.com/t3t3us/Geometria-Python
 
 Instale as dependências: Certifique-se de ter o Python 3 instalado. Em seguida, instale as bibliotecas necessárias:
 Bash
