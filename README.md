@@ -29,7 +29,7 @@ O script implementa e visualiza as seguintes transformações:
 🚀 Como Executar
 
     Clone o repositório:
-    [Bash](https://github.com/t3t3us/Geometria-Python)
+    https://github.com/t3t3us/Geometria-Python
 
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
