@@ -29,7 +29,7 @@ O script implementa e visualiza as seguintes transformações:
 🚀 Como Executar
 
     Clone o repositório:
-    Bash
+    [Bash](https://github.com/t3t3us/Geometria-Python)
 
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
@@ -42,7 +42,7 @@ pip install numpy matplotlib
 Execute o script: No terminal, execute o seguinte comando:
 Bash
 
-    python nome_do_seu_arquivo.py
+    python3 main.py
 
 📊 Resultado Esperado
 
